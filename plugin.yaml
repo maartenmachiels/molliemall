@@ -1,0 +1,6 @@
+plugin:
+    name: 'chocolata.molliemall::lang.plugin.name'
+    description: 'chocolata.molliemall::lang.plugin.description'
+    author: Chocolata
+    icon: oc-icon-euro
+    homepage: 'https://chocolata.be'
